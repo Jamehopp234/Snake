@@ -21,6 +21,7 @@ namespace Snake
     //Collecting these squares will increase the players score.
     //When collecting squares the players speed will increase and more obstacles will spawn.
     //The goal of the game is to get as many points as possible before dieing.
+
     public partial class Form1 : Form
     {
         public Form1()
